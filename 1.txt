@@ -1,0 +1,8 @@
+git command
+git  init
+git add .
+git commit -m " hello"
+git remote add origin repolink
+git status
+git branch -M main
+git push -u origin main 

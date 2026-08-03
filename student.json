@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "rollNo": "CSE101",
+    "age": 19,
+    "course": "B.Tech CSE",
+    "semester": 1,
+    "marks": 88
+  },
+  {
+    "id": 2,
+    "name": "Ananya Verma",
+    "rollNo": "CSE102",
+    "age": 18,
+    "course": "B.Tech CSE",
+    "semester": 1,
+    "marks": 92
+  },
+  {
+    "id": 3,
+    "name": "Rohan Singh",
+    "rollNo": "CSE103",
+    "age": 19,
+    "course": "B.Tech CSE",
+    "semester": 1,
+    "marks": 76
+  },
+  {
+    "id": 4,
+    "name": "Priya Gupta",
+    "rollNo": "CSE104",
+    "age": 18,
+    "course": "B.Tech CSE",
+    "semester": 1,
+    "marks": 85
+  },
+  {
+    "id": 5,
+    "name": "Kabir Mehta",
+    "rollNo": "CSE105",
+    "age": 20,
+    "course": "B.Tech CSE",
+    "semester": 1,
+    "marks": 79
+  },
+  {
+    "id": 6,
+    "name": "Sneha Patel",
+    "rollNo": "CSE106",
+    "age": 19,
+    "course": "B.Tech CSE",
+    "semester": 1,
+    "marks": 91
+  },
+  {
+    "id": 7,
+    "name": "Aditya Kumar",
+    "rollNo": "CSE107",
+    "age": 18,
+    "course": "B.Tech CSE",
+    "semester": 1,
+    "marks": 73
+  },
+  {
+    "id": 8,
+    "name": "Neha Yadav",
+    "rollNo": "CSE108",
+    "age": 19,
+    "course": "B.Tech CSE",
+    "semester": 1,
+    "marks": 87
+  },
+  {
+    "id": 9,
+    "name": "Vikram Joshi",
+    "rollNo": "CSE109",
+    "age": 20,
+    "course": "B.Tech CSE",
+    "semester": 1,
+    "marks": 81
+  },
+  {
+    "id": 10,
+    "name": "Ishita Kapoor",
+    "rollNo": "CSE110",
+    "age": 18,
+    "course": "B.Tech CSE",
+    "semester": 1,
+    "marks": 95
+  }
+]
